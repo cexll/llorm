@@ -1,2 +1,2 @@
-# llrom
+# llorm
 Learn orm written in go
