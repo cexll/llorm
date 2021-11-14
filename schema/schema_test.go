@@ -1,9 +1,13 @@
 package schema
 
-import "testing"
+import (
+	"testing"
+
+	"github.com/cexll/llorm/dialect"
+)
 
 type User struct {
-	Name string `llorm:"PROMARY KEY"`
+	Name string `llorm:"PRIMARY KEY"`
 	Age  int
 }
 

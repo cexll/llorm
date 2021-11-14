@@ -3,6 +3,8 @@ package schema
 import (
 	"go/ast"
 	"reflect"
+
+	"github.com/cexll/llorm/dialect"
 )
 
 type Field struct {
