@@ -29,8 +29,7 @@ func TestSession_Insert(t *testing.T) {
 }
 
 func TestSession_Find(t *testing.T) {
-	//s := testRecordInit(t)
-	s := NewSession().Model(&User{})
+	s := testRecordInit(t)
 	var users []User
 	if err := s.Find(&users); err != nil || len(users) != 2 {
 		t.Fatal("failed to query all")

@@ -6,6 +6,7 @@ import (
 	"testing"
 
 	"github.com/go-ll/llorm/dialect"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 var (
