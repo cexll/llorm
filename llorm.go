@@ -3,9 +3,9 @@ package llorm
 import (
 	"database/sql"
 
-	"github.com/cexll/llorm/dialect"
-	"github.com/cexll/llorm/log"
-	"github.com/cexll/llorm/session"
+	"github.com/go-ll/llorm/dialect"
+	"github.com/go-ll/llorm/log"
+	"github.com/go-ll/llorm/session"
 )
 
 type Engine struct {

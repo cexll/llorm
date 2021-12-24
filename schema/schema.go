@@ -4,7 +4,7 @@ import (
 	"go/ast"
 	"reflect"
 
-	"github.com/cexll/llorm/dialect"
+	"github.com/go-ll/llorm/dialect"
 )
 
 type Field struct {

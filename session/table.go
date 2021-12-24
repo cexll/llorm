@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/cexll/llorm/log"
-	"github.com/cexll/llorm/schema"
+	"github.com/go-ll/llorm/log"
+	"github.com/go-ll/llorm/schema"
 )
 
 func (s *Session) Model(value interface{}) *Session {

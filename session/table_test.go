@@ -3,7 +3,7 @@ package session
 import (
 	"testing"
 
-	"github.com/cexll/llorm"
+	"github.com/go-ll/llorm"
 )
 
 type User struct {

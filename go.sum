@@ -1,2 +1,4 @@
+github.com/cexll/llorm v0.0.0-20211114094117-3c01fcfc3126 h1:QwE9iuz6RX2+x32L3J5I0n+sveh4nCwaYXV5sHe+KQA=
+github.com/cexll/llorm v0.0.0-20211114094117-3c01fcfc3126/go.mod h1:WISlODAml9PzdMGFFpKl2kQgAyXfGTO7g7ZAsHWx8mY=
 github.com/mattn/go-sqlite3 v1.14.9 h1:10HX2Td0ocZpYEjhilsuo6WWtUqttj2Kb0KtD86/KYA=
 github.com/mattn/go-sqlite3 v1.14.9/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=

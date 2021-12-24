@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"strings"
 
-	"github.com/cexll/llorm/dialect"
-	"github.com/cexll/llorm/log"
-	"github.com/cexll/llorm/schema"
+	"github.com/go-ll/llorm/dialect"
+	"github.com/go-ll/llorm/log"
+	"github.com/go-ll/llorm/schema"
 )
 
 type Session struct {
